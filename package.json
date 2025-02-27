@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Whatsapp bot to interact via audio with users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breno-vc/whatsapp-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Breno-vc/whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/Breno-vc/whatsapp-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "twilio": "^5.4.5"
+  }
+}
